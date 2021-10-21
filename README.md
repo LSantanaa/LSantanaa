@@ -27,7 +27,7 @@
 
    ## Total de Visitas no perfil :detective: <br>
    <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/LMaverick/count.svg" />
+   <img alingn="center" src="https://profile-counter.glitch.me/LSantanaa/count.svg" />
    </p>
 
 </p>
