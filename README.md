@@ -23,4 +23,14 @@
   
   ![Snake animation](https://github.com/lsantanaa/lsantanaa/blob/output/github-contribution-grid-snake.svg)
   
-</div
+   <p align="center"> 
+
+   ## Total de Visitas no perfil :detective: <br>
+   <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/LMaverick/count.svg" />
+   </p>
+
+</p>
+
+</div>
+
