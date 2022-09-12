@@ -1,6 +1,7 @@
 ## Olá eu sou o Leonardo de Sant'Ana 👋
 
-- 👩‍💻📚 Estou estudando programação full-stack, UI Design e UX Design
+- 👩‍💻📚 Atualmente estou estudando para me tornar um dev Full Stack 
+- 🖥️ Front End Developer
 - 💼 Trabalho atualmente como auxiliar de informática
 
 <div align="center">
