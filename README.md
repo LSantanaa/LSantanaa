@@ -2,7 +2,7 @@
 
 - 👩‍💻📚 Atualmente estou estudando para me tornar um dev Full Stack 
 - 🖥️ Front End Developer
-- 💼 Trabalho como auxiliar de informática
+- 💼 Trabalho como auxiliar de escritório geral
 
 <div align="center">
   <a href="https://github.com/lsantanaa">
