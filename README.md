@@ -5,8 +5,17 @@
 - 💼 Trabalho como auxiliar de escritório geral
 
 <div align="center">
-  <a href="https://github.com/lsantanaa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lsantanaa&show_icons=true&theme=chartreuse-dark&include_all_commits=true"/>
+ <picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=lsantanaa&show_icons=true&theme=chartreuse-dark&include_all_commits=true"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=lsantanaa&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img  height="180em" src="https://github-readme-stats.vercel.app/api?username=lsantanaa&show_icons=true" />
+</picture>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsantanaa&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
   <div style="display: inline_block"><br>
