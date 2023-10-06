@@ -1,6 +1,6 @@
 ## Olá eu sou o Leonardo de Sant'Ana 👋
 
-- 👩‍💻📚 Atualmente estou estudando para me tornar um dev Full Stack 
+- 👩‍💻📚 Sempre buscando evolução! 
 - 🖥️ Front End Developer
 - 💼 Trabalho como auxiliar de informática
 
@@ -27,12 +27,9 @@
   <img align="center" alt="node icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     
 </div>
-
-  ##
-
+<br>
 <div>
-  <a href="https://instagram.com/le0.sant" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:leonardodesantana05@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lsantanaa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:leonardodesantana05@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/le0.sant_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-
