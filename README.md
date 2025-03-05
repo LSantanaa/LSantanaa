@@ -1,7 +1,7 @@
 ## Olá eu sou o Leonardo de Sant'Ana 👋
 
 - 👩‍💻📚 Sempre buscando evolução! 
-- 🖥️ Front End Developer
+- 🖥️ FullStack Developer
 - 💼 Trabalho como auxiliar de informática
 
 <br>
