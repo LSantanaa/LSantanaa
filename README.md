@@ -8,7 +8,7 @@
 <div>
  <picture>
    <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=lsantanaa&show_icons=true&theme=chartreuse-dark&include_all_commits=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=lsantanaa&show_icons=true&theme=chartreuse-dark"
     media="(prefers-color-scheme: dark)"
    />
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lsantanaa&show_icons=true" />
