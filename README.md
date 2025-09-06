@@ -20,7 +20,7 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
    />
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsantanaa&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-  picture>
+  <picture>
 </div>
   <br>
   <div style="display: inline_block"><br>
